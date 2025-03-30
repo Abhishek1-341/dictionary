@@ -1,14 +1,5 @@
-# LangChain Core
-langchain
-langchain-core
-
-# Google Gemini (PaLM) Integration
-langchain-google-genai
-google-generativeai
-
-# Environment Variable Management
-python-dotenv
-
-# Machine Learning Utilities
-numpy
-scikit-learn
+streamlit==1.33.0
+langchain-core==0.1.44
+langchain-google-genai==1.0.0
+pydantic==2.7.1
+python-dotenv==1.0.1
